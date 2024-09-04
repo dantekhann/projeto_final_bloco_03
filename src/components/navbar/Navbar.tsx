@@ -24,7 +24,7 @@ function Navbar() {
                             name="busca"
                             required
                         />
-                        <button type="submit" className="bg-teal-500 hover:bg-teal-900 dark:hover:bg-teal-700 dark:bg-teal-600 p-2.5 border border-teal-700 rounded-lg focus:ring-4 focus:ring-blue-300 dark:focus:ring-teal-800 w-9 h-9 font-medium text-sm text-white ms-2 focus:outline-none">
+                        <button type="submit" className="bg-red-500 hover:bg-bl dark:hover:bg-red-700 dark:bg-red-600 p-2.5 border border-teal-700 rounded-lg focus:ring-4 focus:ring-blue-300 dark:focus:ring-teal-800 w-9 h-9 font-medium text-sm text-white ms-2 focus:outline-none">
                             <MagnifyingGlass size={14} weight="bold" />
                         </button>
                     </form>
